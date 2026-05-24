@@ -1,0 +1,6 @@
+{
+  "name": "RoCheap",
+  "description": "Intercepts shared text from Roblox, extracts the item ID, and launches a predefined game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
